@@ -41,7 +41,7 @@
         "@storybook/preset-scss": "1.0.3",
         "@storybook/addon-knobs": "6.3.0",
         "@storybook/react": "6.3.7",
-        "babel-loader": "8.2.2",
+        "babel-loader": "8.2.5",
         "style-loader": "2.0.0",
         "@svgr/cli": "5.5.0",
         "@types/react-redux": "7.1.18",
